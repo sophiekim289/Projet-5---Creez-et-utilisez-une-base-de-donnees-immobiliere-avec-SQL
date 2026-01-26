@@ -42,7 +42,7 @@ Le projet a suivi plusieurs étapes :
 
 3. **Chargement et vérification des données**
    - Création des tables
-   - Chargement de 34 169 lignes pour la table principale `Bien`
+   - Chargement de 34 169 lignes pour la table principale
    - Vérification des statuts des requêtes pour confirmer l’intégrité des données
 
 4. **Requêtes SQL et insights**
